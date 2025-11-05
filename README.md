@@ -23,9 +23,9 @@ Feel free to explore the repositories. Each project includes examples and setup 
 [<img align="left" alt="Joseph Kamara___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joseph Kamara___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: (https://x.com/Josefkamara)
+[twitter]: https://x.com/Josefkamara
 [instagram]: https://www.instagram.com/josef_kamara/
-[linkedin]: www.linkedin.com/in/joseph-kamara
+[linkedin]: https://www.linkedin.com/in/joseph-kamara
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
